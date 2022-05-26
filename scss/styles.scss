@@ -5,6 +5,9 @@
 @import "./base/global";
 @import "./base/typography";
 
-@import "./components/container";
-
 @import "./layouts/footer";
+@import "./layouts/header";
+
+@import "./components/container";
+@import "./components/nav";
+@import "./components/hero";
