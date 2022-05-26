@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+  html *,
+  body * {
+    box-sizing: inherit; }
+
+.container {
+  display: block;
+  margin: 0 auto;
+  padding: 0 16px;
+  max-width: 1080px; }
+
+/*# sourceMappingURL=styles.css.map */
